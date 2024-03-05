@@ -1,5 +1,5 @@
 
-#Packing-Slip-to-Label-App 
+# Packing-Slip-to-Label-App 
 
 This script is a Python program that reads order numbers from a USB scanner, requests shipping labels from ShipStation, and prints them using a label printer.
 
